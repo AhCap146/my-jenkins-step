@@ -10,8 +10,8 @@ import hudson.plugins.git.BranchSpec
 def jenkins = Jenkins.getInstance()
 
 // Folder name and job name
-def folderName = "example-folder"
-def jobName = "angular-pipeline"
+def folderName = "maven-project"
+def jobName = "maven-pipeline"
 
 // Create the folder if it doesn't exist
 def folder = jenkins.getItem(folderName)
