@@ -1,0 +1,8 @@
+pipeline-model-definition
+git
+github
+docker-workflow
+workflow-aggregator
+nodejs
+cloudbees-folder
+maven-plugin
